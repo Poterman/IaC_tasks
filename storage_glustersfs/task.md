@@ -5,6 +5,7 @@
   * Please use verify that firewall is enbaled and is blocking all that is NOT needed.s
 
 Note: GlusterFS is a clustered file-system capable of scaling to several peta-bytes. It aggregates various storage bricks over Infiniband RDMA or TCP/IP interconnect into one large parallel network file system. Storage bricks can be made of any commodity hardware such as x86_64 servers with SATA-II RAID and Infiniband HBA.
+
 Suggestions:
   * You can use any type of software/hardware to build this lab.
   * you also can use any type tutorial found on Internet to build this lab.
