@@ -10,3 +10,6 @@ Note: Please to use as much as possible, Variables, Arrays, Functions and Classe
 
 * Automate log-rotation of application output file: You are new Sysadmin at a small startup company, where one of the first task given to you, is to manage company's application logs.
 Application generates logs in to new file every time it is ran.
+
+
+* Create script that will install all your need apps, GUI environment, and tools.
