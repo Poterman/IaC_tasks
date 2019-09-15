@@ -6,6 +6,17 @@
 # backwards compatibility). Please don't change it unless you know what
 # you're doing.
 Vagrant.configure("2") do |config|
+  config.vm.define "server" do |s|
+     s.vm.box="centos/7"
+     s.vm.hostname="server"
+     s.vm.network "private_network", ip: "10.0.220.100"
+  end
+
+  config.vm.define "client" do |c|
+     c.vm.box="centos/7"
+     c.vm.hostname="client"
+     c.vm.network "private_network", ip: "10.0.220.100"
+  end
 
 
 end
