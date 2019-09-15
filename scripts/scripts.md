@@ -2,7 +2,7 @@ Note: Please to use as much as possible, Variables, Arrays, Functions and Classe
 
 * Create a bello script: hello world script written in bash, that says hello to logged in user. The script should NOT say hello to Root and should dismiss him with notification that is not allowed to run script with Root user. In case of passing an argument to a script, for example different user-name, the script should say hello to other user-name.
 
-* Create a bello script: hello world script written in Python, that says hello to logged in user. The script should NOT say hello to Root and should dismiss him with notification that is not allowed to run script with Root user. In case of passing an argument to a script, for example different user-name, the script should say hello to other user-name.
+* Create a pello script: hello world script written in Python, that says hello to logged in user. The script should NOT say hello to Root and should dismiss him with notification that is not allowed to run script with Root user. In case of passing an argument to a script, for example different user-name, the script should say hello to other user-name.
 
 * Create a rello script: hello world script written in ruby, that says hello to logged in user. The script should NOT say hello to Root and should dismiss him with notification that is not allowed to run script with Root user. In case of passing an argument to a script, for example different user-name, the script should say hello to other user-name.
 
