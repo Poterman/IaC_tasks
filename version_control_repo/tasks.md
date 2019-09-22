@@ -12,3 +12,5 @@
 *   generate letsencrypt certificates.
 *   enable https access.
 *   perform gitlab confiuration.
+*   setup ssh key access
+*   test connection and git repo configuration.
