@@ -14,3 +14,5 @@
 *   perform gitlab confiuration.
 *   setup ssh key access
 *   test connection and git repo configuration.
+
+<!-- https://www.howtoforge.com/tutorial/how-to-install-and-configure-gitlab-ce-on-centos-7/ -->
