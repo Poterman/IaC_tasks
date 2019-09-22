@@ -3,3 +3,7 @@
 *   setup clean centos/debian server with these dependencies:
     *   Ssh
     *   Postfix
+
+* add gilab-ce install script with this command: ```bash
+  curl -sS https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.rpm.sh | sudo bash]
+```
