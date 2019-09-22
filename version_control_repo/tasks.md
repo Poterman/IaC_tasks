@@ -7,4 +7,8 @@
 *   add gilab-ce install script with this command:
 ```bash
   curl -sS https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.rpm.sh | sudo bash]
-```
+
+*   configure its url.
+*   generate letsencrypt certificates.
+*   enable https access.
+*   perform gitlab confiuration.
